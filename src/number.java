@@ -7,9 +7,7 @@ import java.util.Scanner;
 
 public class number {
 
-	public number() {
-		// TODO Auto-generated constructor stub
-	}
+
 	
 	public static boolean numberformat(String input) {
 		try {
